@@ -1,0 +1,26 @@
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+ .header_logo {
+  display: flex;
+  align-items: center;
+  width: 80px;
+  justify-content: space-between;
+
+}
+
+.header_input{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.header_icons{
+  display: flex;
+  align-items: center;
+}
